@@ -208,8 +208,8 @@ a {
 .hoverbox {
     height: 50px;
     width: 100%;
-    /* background-color: #f2f2f2;*/
-    background: linear-gradient(#f2f2f2, white);
+    /* background-color: #f2f2f2;
+    background: linear-gradient(#f2f2f2, white);*/
     position: absolute;
     bottom: 0px;
     border-bottom-left-radius: 20px;
